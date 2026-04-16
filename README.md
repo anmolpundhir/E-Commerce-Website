@@ -26,11 +26,11 @@ This project is a fully functional e-commerce website built using the MERN (Mong
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mern-ecommerce.git
+   git clone https://github.com/anmolpundhir/mern-ecommerce.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mern-ecommerce
+   cd E-Commerce-Website
    ```
 3. Install dependencies for both frontend and backend:
    ```bash
